@@ -25,7 +25,6 @@ b)	Call the `display(8, 9)` method on the `ad` object
 ## PROGRAM:
  ```
 /*
-Program to implement a Static Variable using Java
 Developed by: A. Sherwin Infano
 RegisterNumber:  212224040312
 */
