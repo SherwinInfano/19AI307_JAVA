@@ -19,9 +19,9 @@ To create a class named 'Student' with String variable 'name' and String variabl
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
-Developed by: YUVAN M
-RegisterNumber: 212223240188
+Program to implement a Static Variable using Java
+Developed by: A. Sherwin Infano
+RegisterNumber:  212224040312
 */
 ```
 
