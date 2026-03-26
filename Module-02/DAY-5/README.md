@@ -24,8 +24,8 @@ To write a Java program that reads an array size and elements from the user and 
  ```
 /*
 Program to implement a Smallest Element in an Array
-Developed by: PRAGATHI KUMAR
-RegisterNumber:  212224230200
+Developed by: A. Sherwin Infano
+RegisterNumber:  212224040312
 */
 ```
 
