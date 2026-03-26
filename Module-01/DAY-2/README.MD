@@ -23,7 +23,6 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 ## PROGRAM:
 ```
 /*
-Program to implement a Static Variable using Java
 Developed by: A. Sherwin Infano
 RegisterNumber:  212224040312
 */
