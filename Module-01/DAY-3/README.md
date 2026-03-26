@@ -23,7 +23,6 @@ To develop a Java program to check given number is zero or not.
 ## PROGRAM:
  ```
 /*
-Program to implement a Static Variable using Java
 Developed by: A. Sherwin Infano
 RegisterNumber:  212224040312
 */
