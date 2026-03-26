@@ -23,7 +23,6 @@ b)	Call the 'calculateArea' method on the 'rectangle' object
 ## PROGRAM:
  ```
 /*
-Program to implement a Static Variable using Java
 Developed by: A. Sherwin Infano
 RegisterNumber:  212224040312
 */
