@@ -15,15 +15,29 @@ To create a java program to read input and print length of the string in java.
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a String and its Operations using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
+
 
 ## Sourcecode.java:
+
+```
+import java.util.Scanner;
+public class Main {
+	public static void main(String[] args)
+	{
+    	// Here str is a string object
+   	Scanner sc = new Scanner(System.in);  // Create a Scanner object
+   	String str = sc.nextLine();
+
+ 
+    	System.out.println(
+        	"The size of "
+        	+ "the String is "
+        	+ str.length());
+	}
+}
+
+
+```
 
 
 
@@ -32,6 +46,7 @@ RegisterNumber:
 
 
 ## OUTPUT:
+<img width="726" height="282" alt="image" src="https://github.com/user-attachments/assets/ad1c5951-7c15-4651-b526-2056d4a9c74b" />
 
 
 
